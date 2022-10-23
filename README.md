@@ -35,8 +35,11 @@ pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
+```
 - Run the code with mentioned command below.
 ```
+
+
 #for detection only
 python ob_detect.py --weights yolov5s.pt --source "your video.mp4"
 
