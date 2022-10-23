@@ -14,7 +14,7 @@
 ### Steps to run Code
 - Clone the repository
 ```
-git clone 
+git clone https://github.com/noorkhokhar99/yolov5-object-tracking.git
 ```
 
 - Goto the cloned folder.
