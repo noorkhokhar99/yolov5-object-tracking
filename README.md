@@ -69,5 +69,7 @@ python obj_det_and_trk.py --weights yolov5s.pt --source "your video.mp4" --class
 python -m streamlit run app.py
 ```
 
+# result 
+<img src="https://github.com/noorkhokhar99/yolov7-pose-estimation/blob/main/Screen%20Shot%201444-03-27%20at%2011.49.59%20AM.png">
 
 
